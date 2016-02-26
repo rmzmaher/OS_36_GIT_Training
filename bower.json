@@ -1,0 +1,9 @@
+{
+    "name": "OS_36",
+    "version": "1.0.0",
+    "homepage": "",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "~3.x",
+            }
+}
